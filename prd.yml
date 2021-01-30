@@ -1,8 +1,0 @@
----
-cams:                   
-  protocol: https
-  url: qa_cams.example.com
-  
-wms:
-  protocol: https
-  url: qa_wms.example.com
