@@ -1,0 +1,8 @@
+---
+cams:
+  protocol: https
+  url: build_cams.example.com 
+  
+wms:
+  protocol: https
+  url: build_wms.example.com
