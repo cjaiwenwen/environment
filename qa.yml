@@ -2,6 +2,8 @@
 cams:                   
   protocol: https
   url: qa_cams.example.com
+  port: 8000
+  authen: /api/v1/auth
   
 wms:
   protocol: https
