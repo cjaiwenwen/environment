@@ -8,3 +8,9 @@ cams:
 wms:
   protocol: https
   url: qa_wms.example.com
+
+cisco:
+  protocol: ssh
+  ip: 192.168.31.233
+  user: cisco
+  pass: cisco
