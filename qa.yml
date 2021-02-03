@@ -14,3 +14,9 @@ cisco:
   ip: 192.168.31.233
   user: cisco
   pass: cisco
+
+remdy:
+  protocol: https
+  url: qa_cams.example.com
+  port: 8000
+  uri: /api/v1/notify
